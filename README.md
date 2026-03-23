@@ -18,4 +18,7 @@ The board is engineered for reliability in dense IoT deployments. It utilizes a 
 * **Compact Form Factor:** Optimized footprint for small-scale enclosure integration.
 * **Manufacturing Ready:** Includes precise footprints and libraries for automated assembly (CPL and BOM).
 
+## 🖼️ Gallery
 
+<img width="1173" height="685" alt="ESP32_IOT_PCB" src="https://github.com/user-attachments/assets/726b1033-2749-49a3-8a95-ab1e515412a1" />
+<img width="1724" height="930" alt="ESP32_IOT" src="https://github.com/user-attachments/assets/a25c3573-be3a-429a-8515-f588e176a4b0" />
