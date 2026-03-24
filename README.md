@@ -20,5 +20,4 @@ The board is engineered for reliability in dense IoT deployments. It utilizes a 
 
 ## 🖼️ Gallery
 
-<img width="1173" height="685" alt="ESP32_IOT_PCB" src="https://github.com/user-attachments/assets/726b1033-2749-49a3-8a95-ab1e515412a1" />
-<img width="1724" height="930" alt="ESP32_IOT" src="https://github.com/user-attachments/assets/a25c3573-be3a-429a-8515-f588e176a4b0" />
+ ![IMG_1](ESP32_IOT/CKT_Image/ESP32_IOT.png)   ![IMG_1](ESP32_IOT/CKT_Image/ESP32_IOT_PCB.png) 
